@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CottonImages-1</folder>
+	<filename>IMG_0554.JPG</filename>
+	<path>C:\Users\coreML\Desktop\Cotton_main\CottonImages-1\IMG_0554.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1936</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cotton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1588</xmin>
+			<ymin>1368</ymin>
+			<xmax>1727</xmax>
+			<ymax>1487</ymax>
+		</bndbox>
+	</object>
+</annotation>
